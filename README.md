@@ -6,5 +6,5 @@
 ### - mysql
 
 ## Project
-### Template Designed by (Front-end mentor)[https://www.frontendmentor.io/]
+### Template Designed by [Front-end mentor](https://www.frontendmentor.io/)
 ### Programmed by Mortda
